@@ -1,0 +1,37 @@
+*{
+    transition: 200ms;
+}
+#id_title {
+    color: white;
+}
+.lightsbox{
+    background-color: black;
+    height: 665px;
+    width: 280px;
+    border-radius: 30px;
+}
+div{
+    display: inline-block;
+}
+.red{
+    background: rgb(20, 0, 0);
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+.yellow{
+    background: rgb(20, 20, 0);
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.green{
+    background: rgb(0, 20, 0);
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
